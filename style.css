@@ -1,0 +1,16 @@
+header {
+    background-color: rgb(173, 112, 143);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+body {
+    margin : auto;
+    width: 900px;
+}
+.text-article {
+    margin: 20px 25px;
+    padding: 20px 25px;
+    border: 2px solid darkblue;
+    text-align: center;
+}
